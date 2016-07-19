@@ -1,0 +1,10 @@
+.center{
+  display: block;
+  text-align: center;
+}
+body{
+  padding: 5px;
+}
+h1{
+  padding-bottom: 30px;
+}
